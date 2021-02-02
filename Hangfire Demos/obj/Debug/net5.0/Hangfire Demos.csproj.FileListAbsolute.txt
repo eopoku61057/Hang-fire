@@ -1,0 +1,38 @@
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\appsettings.json
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\Hangfire Demos.exe
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\Hangfire Demos.deps.json
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\Hangfire Demos.runtimeconfig.json
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\Hangfire Demos.runtimeconfig.dev.json
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\Hangfire Demos.dll
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\ref\Hangfire Demos.dll
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\Hangfire Demos.pdb
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\Hangfire.AspNetCore.dll
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\Hangfire.Core.dll
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\Hangfire.MemoryStorage.dll
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\ca\Hangfire.Core.resources.dll
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\es\Hangfire.Core.resources.dll
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\fa\Hangfire.Core.resources.dll
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\fr\Hangfire.Core.resources.dll
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\nl\Hangfire.Core.resources.dll
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\pt\Hangfire.Core.resources.dll
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\bin\Debug\net5.0\zh\Hangfire.Core.resources.dll
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\obj\Debug\net5.0\Hangfire Demos.csprojAssemblyReference.cache
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\obj\Debug\net5.0\Hangfire Demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\obj\Debug\net5.0\Hangfire Demos.AssemblyInfoInputs.cache
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\obj\Debug\net5.0\Hangfire Demos.AssemblyInfo.cs
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\obj\Debug\net5.0\Hangfire Demos.csproj.CoreCompileInputs.cache
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\obj\Debug\net5.0\Hangfire Demos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\obj\Debug\net5.0\staticwebassets\Hangfire Demos.StaticWebAssets.Manifest.cache
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\obj\Debug\net5.0\staticwebassets\Hangfire Demos.StaticWebAssets.xml
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\obj\Debug\net5.0\scopedcss\bundle\Hangfire Demos.styles.css
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\obj\Debug\net5.0\Hangfire Demos.RazorTargetAssemblyInfo.cache
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\obj\Debug\net5.0\Hangfire Demos.csproj.CopyComplete
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\obj\Debug\net5.0\Hangfire Demos.dll
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\obj\Debug\net5.0\ref\Hangfire Demos.dll
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\obj\Debug\net5.0\Hangfire Demos.pdb
+C:\Users\emman\source\repos\Hangfire Demos\Hangfire Demos\obj\Debug\net5.0\Hangfire Demos.genruntimeconfig.cache

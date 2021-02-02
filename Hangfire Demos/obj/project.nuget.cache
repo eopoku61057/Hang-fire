@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oG5Sr5GejkYiPRKcZ21a7uccPT2iB0RAMC/04E3vbk0Xmpoz9JLoterDnrtHD/4TVfhvJb1CwP6oS9V4e9He0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emman\\source\\repos\\Hangfire Demos\\Hangfire Demos\\Hangfire Demos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emman\\.nuget\\packages\\hangfire.aspnetcore\\1.7.18\\hangfire.aspnetcore.1.7.18.nupkg.sha512",
+    "C:\\Users\\emman\\.nuget\\packages\\hangfire.core\\1.7.18\\hangfire.core.1.7.18.nupkg.sha512",
+    "C:\\Users\\emman\\.nuget\\packages\\hangfire.memorystorage\\1.7.0\\hangfire.memorystorage.1.7.0.nupkg.sha512",
+    "C:\\Users\\emman\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
